@@ -1,6 +1,6 @@
 <h3 align="center">
     <h2 align="center">Projeto Ecoleta</h2> 
-    <img alt="Logo" title="#logo" width="450px" src="E:\projetosgit\React_Typescript\logoEcoleta.png?raw=true">
+    <img alt="Logo" title="#logo" width="450px" src="https://github.com/apsimao/NextLevelWeek-01/blob/master/logoEcoleta.png?raw=true">
     <br><br>
     <br>
 </h3>
