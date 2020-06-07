@@ -1,6 +1,7 @@
 <h3 align="center">
-    <h2 align="center">Projeto Ecoleta</h2> 
+    <div align="center">
     <img alt="Logo" title="#logo" width="450px" src="https://github.com/apsimao/NextLevelWeek-01/blob/master/logoEcoleta.png?raw=true">
+    </div>
     <br><br>
     <br>
 </h3>
@@ -31,7 +32,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [ReactJS](https://reactjs.org/)<br>
 Foram utilizado aqui:
   - Axios
-  - Cep-promise
   - Leaflet
   - React-dropzone
   - React-icons
